@@ -49,7 +49,7 @@ Sales by region, state, city, product brand, and family size.
 
 | File | Description |
 |------|-------------|
-| [project1_ana,jana_nti.xlsx](project1_ana%2Cjana_nti.xlsx) | Excel workbook with the dashboards and Pivot Tables |
+| [Business_Performance_analytics.xlsx](Business_Performance%2c_analytics.xlsx) | Excel workbook with the dashboards and Pivot Tables |
 | business performance.png | Business Performance dashboard screenshot |
 | demographic.png | Demographics dashboard screenshot |
 | sales.png | Sales Overview dashboard screenshot |
